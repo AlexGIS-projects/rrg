@@ -32,4 +32,4 @@ This repository was created for Lab 01 of my Advanced GIS class (GEO 409).
 #### 2. [Auxier Ridge](https://toredrivergorge.com/top-10-day-hikes/auxier-ridge-area/auxier-ridge-loop-5-0-miles/)
 ![Auxier Ridge](https://static.rootsrated.com/image/upload/s--uwHrSV_1--/t_rr_large_traditional/whjhyjafidmbftd0iww7.jpg)
 #### 3. [Cloud Splitter](https://toredrivergorge.com/top-10-day-hikes/indian-staircase-area/cloud-splitter-arch-1-5-miles-unmarked/)
-![Cloud Splitter](https://media-cdn.tripadvisor.com/media/photo-s/0b/e1/19/f0/hiking-red-river-gorge.jpg)
+![Cloud Splitter](https://sp-images.summitpost.org/940414.JPG?auto=format&fit=max&ixlib=php-2.1.1&q=35&w=500&s=3d920dacfc195cd2850a74e21f4d1240)
