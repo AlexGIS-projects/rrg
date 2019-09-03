@@ -25,11 +25,3 @@ This repository was created for Lab 01 of my Advanced GIS class (GEO 409).
 1. https://en.wikipedia.org/wiki/Red_River_Gorge
 2. https://ngmdb.usgs.gov/ht-bin/tv_browse.pl?id=5f36a3fad5ff06db39d6c8d437b81063
 3. https://www.fws.gov/southeast/wildlife/plants/white-haired-goldenrod/
-
-### Some of my favorite Places in the Gorge
-#### 1. ![Indian Staircase](https://toredrivergorge.com/top-10-day-hikes/indian-staircase-area/indian-staircase/)
-![Indian Staircase](https://cdn-assets.alltrails.com/uploads/photo/image/21040618/extra_large_022648656c177758300a63bbaa53c537.jpg)
-#### 2. ![Auxier Ridge](https://toredrivergorge.com/top-10-day-hikes/auxier-ridge-area/auxier-ridge-loop-5-0-miles/)
-![Auxier Ridge](https://static.rootsrated.com/image/upload/s--uwHrSV_1--/t_rr_large_traditional/whjhyjafidmbftd0iww7.jpg)
-#### 3. ![Cloud Splitter](https://toredrivergorge.com/top-10-day-hikes/indian-staircase-area/cloud-splitter-arch-1-5-miles-unmarked/)
-![Cloud Splitter](https://cdn-assets.alltrails.com/uploads/photo/image/22097981/extra_large_4471a3d7139a3b3e4ecbec90ac7c3bc0.jpg)
