@@ -6,11 +6,15 @@ Welcome to my info page.
 This repository was created for Lab 01 of my Advanced GIS class (GEO 409).
 
 <!-- Heading 2 -->
-## The Red River Gorge (RRG) Geological Area, is an area of around 29,000 acres (120 km2; 45 sq mi) located in the state of Kentucky. 
-## The RRG is home to several endangered species including the white-haired goldenrod which is found only in Red River Gorge.
+## Interesting facts about the Red River Gorge
 
-<!-- Link to web page -->
-[2019 USGS Map of Area](https://ngmdb.usgs.gov/ht-bin/tv_browse.pl?id=5f36a3fad5ff06db39d6c8d437b81063)
+* The Red River Gorge (RRG) Geological Area, is an area of around 29,000 acres (120 km2; 45 sq mi) located in the state of Kentucky. 
+* The RRG is home to several endangered species including the white-haired goldenrod which is found only in Red River Gorge.
+
+## Map
+* [2019 USGS Topographic Map of Area](https://ngmdb.usgs.gov/ht-bin/tv_browse.pl?id=5f36a3fad5ff06db39d6c8d437b81063) <!-- Link to web page -->
+
+## Photograph of endangered plant
 
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
 *Solidago albopilosa*: White-haired Goldenrod
