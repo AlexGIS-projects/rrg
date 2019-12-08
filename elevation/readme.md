@@ -2,8 +2,9 @@
 
 ## Courthouse Rock Overlook Map
 
-### [Courthouse Rock Potree](https://alexgis-projects.github.io/rrg/potree/)
+### [Courthouse Rock Potree](../potree/)
 
-![Courthouse Rock Overlook](https://alexgis-projects.github.io/rrg/CHR_Overlook_Map.jpg)
+![Courthouse Rock Overlook](CHR_Overlook_Map.jpg)     
+Estimate cliff heights over 40 ft ([click to enlarge](CHR_Overlook_Map.jpg))
 
 
