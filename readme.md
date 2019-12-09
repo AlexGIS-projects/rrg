@@ -6,4 +6,4 @@ Links to project assets
 * [Base map of popular landforms](trail-data/rrg-avenza-basemap.pdf)
 * [High cliffs around Courthouse Rock](elevation/readme.md)
 * [3D map of Courthouse Rock](potree/)
-* [Pillars and Arches](https://alexgis-projects.github.io/rrg/mapbox/map.html)
+* [Pillars and Arches](https://alexgis-projects.github.io/rrg/mapbox)
