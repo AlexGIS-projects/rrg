@@ -7,3 +7,4 @@ Links to project assets
 * [High cliffs around Courthouse Rock](elevation/readme.md)
 * [3D map of Courthouse Rock](potree/)
 * [Pillars and Arches](https://alexgis-projects.github.io/rrg/mapbox)
+* [Auxier Ridge Trail data](https://alexgis-projects.github.io/rrg/trail-data/)
